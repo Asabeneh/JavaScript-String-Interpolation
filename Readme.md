@@ -1,5 +1,3 @@
-# JavaScript Code Documentation
-
 ## String Interpolation
 
 ```javascript
